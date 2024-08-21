@@ -34,7 +34,7 @@ const ContentHeightStyle = computed(() => `calc(100vh - ${props.headerHeight + p
 
 <style scoped>
 .n-layout-header {
-  background: rgba(128, 128, 128, 0.2);
+  background: #212328;
   height: v-bind(headerHeightStyle);
 }
 
